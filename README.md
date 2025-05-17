@@ -64,7 +64,7 @@ Para poder acceder a la API, es necesario obtener una `client_id` y `client_secr
 
 La autenticación se hace mediante OAuth 2.0 para obtener un token que se utiliza en las llamadas a la API.
 
-## 📚 Aprendizajes
+## Aprendizajes
 
 - Consumo de APIs REST en Flutter.
 - Gestión de interfaces interactivas y dinámicas.
@@ -72,7 +72,7 @@ La autenticación se hace mediante OAuth 2.0 para obtener un token que se utiliz
 - Separación de lógica de presentación y de negocio.
     
 
-## ✍️ Autor
+## Autor
 
 - Alfonso Otón Liñán
 - 2º DAM - PDMD03   

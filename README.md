@@ -24,10 +24,6 @@ La app permite consultar cartas del juego **Hearthstone** utilizando la API ofic
   - `carousel_slider` para sliders de cartas
   - `provider` para gestión del estado
 
-## Capturas de pantalla
-
-> *(Puedes añadir aquí imágenes de la app en funcionamiento para ilustrar la interfaz.)*
-
 ## Instalación y ejecución
 
 1. Clona el repositorio:
@@ -47,7 +43,7 @@ La app permite consultar cartas del juego **Hearthstone** utilizando la API ofic
     flutter pub get
     ```
     
-4. Añade tus credenciales de la API de Blizzard en un archivo `.env` o directamente en el código (según implementación).
+4. Añade tus credenciales de la API de Blizzard.
     
 5. Ejecuta la aplicación:
     
